@@ -1,11 +1,21 @@
 h1{
     color: #b434ae81;
     background-color: rgb(141, 141, 196);
+    text-align: center;
+    border-radius: 100px;
+
 }
 body{
-    background-color: rgba(255, 251, 0, 0.281);
+    background-color: rgba(170, 197, 71, 0.678);
+    
+    
 }
 a{
     background-color: rgba(204, 0, 255, 0.452);
-    background-image: url();
+    border-radius: 100px;
+    display: block;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    
 }
